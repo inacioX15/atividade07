@@ -1,0 +1,23 @@
+body
+{
+    background-color: black;
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;400;700;900&display=swap');
+
+.titulo {
+font-family: 'Noto Sans JP', sans-serif;
+font-size: medium;
+font-style: italic;
+font-weight: 900;
+color: white;
+text-align: center;
+text-decoration: red;
+text-transform: lowercase;
+}
+.meme
+{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: gold;
+    text-transform: uppercase;
+}
